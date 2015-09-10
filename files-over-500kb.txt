@@ -1,0 +1,4 @@
+./src/assets/images/typewriter.jpg
+./src/assets/images/meeting.jpg
+./src/assets/images/skyline.jpg
+./.git/objects/pack/pack-bb0a39233609b926ee385f1d1026cce0f1f2acd4.pack
