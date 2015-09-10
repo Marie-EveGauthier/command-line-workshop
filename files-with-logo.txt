@@ -1,1 +1,2 @@
-./files-with-logo.txt
+../workspace/src/assets/images/decodemtl-logo-black.png
+../workspace/src/assets/images/decodemtl-logo-white.png
