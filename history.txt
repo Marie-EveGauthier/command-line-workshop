@@ -1,0 +1,53 @@
+    1  git remote -v
+    2  git remote set-url origin git@github.com:Marie-EveGauthier/decodemtl.git
+    3  git add .
+    4  git status
+    5  git commit
+    6  git add .
+    7  git status
+    8  git commit
+    9  git push origin worksho_changes
+   10  git push origin workshop_changes
+   11  clear
+   12  grep --n "registerTask" Gruntfile.js
+   13  grep -n "registerTsk" gruntfile.js
+   14  grep "griffin" .
+   15  grep recursive "griffin" .
+   16  grep --recursive "griffin" .
+   17  cd ..
+   18  grep --recursive -i "griffin" 
+   19  history
+   20  history > hist.txt
+   21  nano hist.txt
+   22  grep "git" hist.txt
+   23  grep "git commit" < hist.txt
+   24  cowsay "hello"
+   25  sudo apt-get install cowsay
+   26  cowsay "hello"
+   27  man cowsay
+   28  cowsay
+   29  dwp
+   30  history | grep "git commit"
+   31  echo "hello world"
+   32  echo "hello" $PATH
+   33  echo $USER
+   34  whoami
+   35  echo $HOME
+   36  echo ~
+   37  env
+   38  clear
+   39  ls -l
+   40  cd /etc
+   41  ls -l
+   42  nano hosts
+   43  cd ..
+   44  pwd
+   45  cd ~
+   46  clone git@github.com:Marie-EveGauthier/command-line-workshop.git
+   47  git clone git@github.com:Marie-EveGauthier/command-line-workshop.git
+   48  pwd
+   49  ls -l
+   50* cd co/
+   51  git branch cmd-history
+   52  history
+   53  history > history.txt
